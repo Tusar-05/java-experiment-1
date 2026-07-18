@@ -1,3 +1,5 @@
+/*write a program to print the sum of all the digits of a given number*/
+
 import java.util.*;
 public class test2{
 	
