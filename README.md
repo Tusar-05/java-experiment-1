@@ -1,2 +1,3 @@
 # java-experiment-1
-this is the assignment of OOPJ course
+this is the assignment of OOPJ course lab sessions 
+
