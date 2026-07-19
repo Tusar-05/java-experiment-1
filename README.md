@@ -14,3 +14,5 @@ this is the assignment of OOPJ course lab sessions
 
 5. Write a program to print first 5 values which are divisble by 2,3 and 5.
 </p>
+
+..
